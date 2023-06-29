@@ -3,3 +3,6 @@ script que te ajuda a usar o thc-hydra com facilidade te disponibilizando inputs
 
 para instalar os requisitos,execute:
 python install.py
+
+![FSEC](https://github.com/Jeanpseven/myhydra/art.png)
+
